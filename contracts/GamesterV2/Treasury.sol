@@ -1,0 +1,1 @@
+// This is the smart contract allowing the NFT DAO to manage a crosschain treasury

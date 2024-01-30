@@ -1,0 +1,1 @@
+// This is a DAO governed smart contract that allows other NFT collections to access the platform and it's opportunities. Verification is always performed by the Gamesters.

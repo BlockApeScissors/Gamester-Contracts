@@ -1,0 +1,1 @@
+// After a Job Opportunity is accepted it is logged in the Job Manager, here is where we pay out Gamesters
